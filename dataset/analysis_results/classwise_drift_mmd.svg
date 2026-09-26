@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="810" viewBox="0 0 1240 810">
+<rect x="0.0" y="0.0" width="1240.0" height="810.0" rx="0.0" fill="#f8fafc" stroke="none"/>
+<text x="55.0" y="55.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#172033">Class-conditional drift</text>
+<text x="55.0" y="88.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#64748b">RBF-MMD² after source-only scaling; gray = class missing in one domain</text>
+<text x="306.0" y="121.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#172033">C1: Ethanol</text>
+<text x="466.0" y="121.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#172033">C2: Ethylene</text>
+<text x="626.0" y="121.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#172033">C3: Ammonia</text>
+<text x="786.0" y="121.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#172033">C4: Acetaldehyde</text>
+<text x="946.0" y="121.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#172033">C5: Acetone</text>
+<text x="1106.0" y="121.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#172033">C6: Toluene</text>
+<text x="210.0" y="180.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 2</text>
+<rect x="230.0" y="145.0" width="152.0" height="58.0" rx="5.0" fill="#f4d6c4" stroke="none"/>
+<text x="306.0" y="180.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.1875</text>
+<rect x="390.0" y="145.0" width="152.0" height="58.0" rx="5.0" fill="#f9e4d6" stroke="none"/>
+<text x="466.0" y="180.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.1055</text>
+<rect x="550.0" y="145.0" width="152.0" height="58.0" rx="5.0" fill="#f7dfcf" stroke="none"/>
+<text x="626.0" y="180.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.1356</text>
+<rect x="710.0" y="145.0" width="152.0" height="58.0" rx="5.0" fill="#e7ae93" stroke="none"/>
+<text x="786.0" y="180.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4097</text>
+<rect x="870.0" y="145.0" width="152.0" height="58.0" rx="5.0" fill="#f0cbb6" stroke="none"/>
+<text x="946.0" y="180.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2482</text>
+<rect x="1030.0" y="145.0" width="152.0" height="58.0" rx="5.0" fill="#fbebdf" stroke="none"/>
+<text x="1106.0" y="180.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.0656</text>
+<text x="210.0" y="245.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 3</text>
+<rect x="230.0" y="210.0" width="152.0" height="58.0" rx="5.0" fill="#cc5e30" stroke="none"/>
+<text x="306.0" y="245.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.8616</text>
+<rect x="390.0" y="210.0" width="152.0" height="58.0" rx="5.0" fill="#dc8f6d" stroke="none"/>
+<text x="466.0" y="245.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.5827</text>
+<rect x="550.0" y="210.0" width="152.0" height="58.0" rx="5.0" fill="#f0cab6" stroke="none"/>
+<text x="626.0" y="245.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2518</text>
+<rect x="710.0" y="210.0" width="152.0" height="58.0" rx="5.0" fill="#e7b095" stroke="none"/>
+<text x="786.0" y="245.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3992</text>
+<rect x="870.0" y="210.0" width="152.0" height="58.0" rx="5.0" fill="#f1cebb" stroke="none"/>
+<text x="946.0" y="245.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2285</text>
+<rect x="1030.0" y="210.0" width="152.0" height="58.0" rx="5.0" fill="#cbd5e1" stroke="none"/>
+<text x="1106.0" y="245.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#475569">missing</text>
+<text x="210.0" y="310.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 4</text>
+<rect x="230.0" y="275.0" width="152.0" height="58.0" rx="5.0" fill="#cd6336" stroke="none"/>
+<text x="306.0" y="310.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.8335</text>
+<rect x="390.0" y="275.0" width="152.0" height="58.0" rx="5.0" fill="#d27248" stroke="none"/>
+<text x="466.0" y="310.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.7493</text>
+<rect x="550.0" y="275.0" width="152.0" height="58.0" rx="5.0" fill="#f1ccb8" stroke="none"/>
+<text x="626.0" y="310.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2414</text>
+<rect x="710.0" y="275.0" width="152.0" height="58.0" rx="5.0" fill="#e09b7b" stroke="none"/>
+<text x="786.0" y="310.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.5194</text>
+<rect x="870.0" y="275.0" width="152.0" height="58.0" rx="5.0" fill="#c54b18" stroke="none"/>
+<text x="946.0" y="310.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.9685</text>
+<rect x="1030.0" y="275.0" width="152.0" height="58.0" rx="5.0" fill="#cbd5e1" stroke="none"/>
+<text x="1106.0" y="310.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#475569">missing</text>
+<text x="210.0" y="375.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 5</text>
+<rect x="230.0" y="340.0" width="152.0" height="58.0" rx="5.0" fill="#c2410c" stroke="none"/>
+<text x="306.0" y="375.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">1.0246</text>
+<rect x="390.0" y="340.0" width="152.0" height="58.0" rx="5.0" fill="#d8835e" stroke="none"/>
+<text x="466.0" y="375.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.6507</text>
+<rect x="550.0" y="340.0" width="152.0" height="58.0" rx="5.0" fill="#eec4ae" stroke="none"/>
+<text x="626.0" y="375.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2860</text>
+<rect x="710.0" y="340.0" width="152.0" height="58.0" rx="5.0" fill="#c95524" stroke="none"/>
+<text x="786.0" y="375.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.9140</text>
+<rect x="870.0" y="340.0" width="152.0" height="58.0" rx="5.0" fill="#cf673b" stroke="none"/>
+<text x="946.0" y="375.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.8116</text>
+<rect x="1030.0" y="340.0" width="152.0" height="58.0" rx="5.0" fill="#cbd5e1" stroke="none"/>
+<text x="1106.0" y="375.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#475569">missing</text>
+<text x="210.0" y="440.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 6</text>
+<rect x="230.0" y="405.0" width="152.0" height="58.0" rx="5.0" fill="#d3744b" stroke="none"/>
+<text x="306.0" y="440.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.7366</text>
+<rect x="390.0" y="405.0" width="152.0" height="58.0" rx="5.0" fill="#e7ae93" stroke="none"/>
+<text x="466.0" y="440.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4099</text>
+<rect x="550.0" y="405.0" width="152.0" height="58.0" rx="5.0" fill="#efc6b1" stroke="none"/>
+<text x="626.0" y="440.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2734</text>
+<rect x="710.0" y="405.0" width="152.0" height="58.0" rx="5.0" fill="#d06b41" stroke="none"/>
+<text x="786.0" y="440.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.7855</text>
+<rect x="870.0" y="405.0" width="152.0" height="58.0" rx="5.0" fill="#e9b69d" stroke="none"/>
+<text x="946.0" y="440.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3650</text>
+<rect x="1030.0" y="405.0" width="152.0" height="58.0" rx="5.0" fill="#ebbba2" stroke="none"/>
+<text x="1106.0" y="440.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3402</text>
+<text x="210.0" y="505.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 7</text>
+<rect x="230.0" y="470.0" width="152.0" height="58.0" rx="5.0" fill="#d8845f" stroke="none"/>
+<text x="306.0" y="505.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.6470</text>
+<rect x="390.0" y="470.0" width="152.0" height="58.0" rx="5.0" fill="#e5a98c" stroke="none"/>
+<text x="466.0" y="505.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4409</text>
+<rect x="550.0" y="470.0" width="152.0" height="58.0" rx="5.0" fill="#edc1ab" stroke="none"/>
+<text x="626.0" y="505.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3020</text>
+<rect x="710.0" y="470.0" width="152.0" height="58.0" rx="5.0" fill="#e4a78a" stroke="none"/>
+<text x="786.0" y="505.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4497</text>
+<rect x="870.0" y="470.0" width="152.0" height="58.0" rx="5.0" fill="#e09b7b" stroke="none"/>
+<text x="946.0" y="505.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.5200</text>
+<rect x="1030.0" y="470.0" width="152.0" height="58.0" rx="5.0" fill="#ebbca4" stroke="none"/>
+<text x="1106.0" y="505.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3343</text>
+<text x="210.0" y="570.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 8</text>
+<rect x="230.0" y="535.0" width="152.0" height="58.0" rx="5.0" fill="#d4764d" stroke="none"/>
+<text x="306.0" y="570.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#ffffff">0.7290</text>
+<rect x="390.0" y="535.0" width="152.0" height="58.0" rx="5.0" fill="#e8b399" stroke="none"/>
+<text x="466.0" y="570.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3809</text>
+<rect x="550.0" y="535.0" width="152.0" height="58.0" rx="5.0" fill="#ebbca4" stroke="none"/>
+<text x="626.0" y="570.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3309</text>
+<rect x="710.0" y="535.0" width="152.0" height="58.0" rx="5.0" fill="#e09a7a" stroke="none"/>
+<text x="786.0" y="570.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.5225</text>
+<rect x="870.0" y="535.0" width="152.0" height="58.0" rx="5.0" fill="#e3a385" stroke="none"/>
+<text x="946.0" y="570.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4755</text>
+<rect x="1030.0" y="535.0" width="152.0" height="58.0" rx="5.0" fill="#e9b59b" stroke="none"/>
+<text x="1106.0" y="570.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3717</text>
+<text x="210.0" y="635.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 9</text>
+<rect x="230.0" y="600.0" width="152.0" height="58.0" rx="5.0" fill="#df9878" stroke="none"/>
+<text x="306.0" y="635.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.5341</text>
+<rect x="390.0" y="600.0" width="152.0" height="58.0" rx="5.0" fill="#e5aa8e" stroke="none"/>
+<text x="466.0" y="635.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4322</text>
+<rect x="550.0" y="600.0" width="152.0" height="58.0" rx="5.0" fill="#eab89f" stroke="none"/>
+<text x="626.0" y="635.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3533</text>
+<rect x="710.0" y="600.0" width="152.0" height="58.0" rx="5.0" fill="#e29f81" stroke="none"/>
+<text x="786.0" y="635.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4928</text>
+<rect x="870.0" y="600.0" width="152.0" height="58.0" rx="5.0" fill="#e4a588" stroke="none"/>
+<text x="946.0" y="635.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4601</text>
+<rect x="1030.0" y="600.0" width="152.0" height="58.0" rx="5.0" fill="#e19c7d" stroke="none"/>
+<text x="1106.0" y="635.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.5112</text>
+<text x="210.0" y="700.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#172033">Target Batch 10</text>
+<rect x="230.0" y="665.0" width="152.0" height="58.0" rx="5.0" fill="#f1cfbb" stroke="none"/>
+<text x="306.0" y="700.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2269</text>
+<rect x="390.0" y="665.0" width="152.0" height="58.0" rx="5.0" fill="#f8e1d2" stroke="none"/>
+<text x="466.0" y="700.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.1214</text>
+<rect x="550.0" y="665.0" width="152.0" height="58.0" rx="5.0" fill="#f7dece" stroke="none"/>
+<text x="626.0" y="700.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.1418</text>
+<rect x="710.0" y="665.0" width="152.0" height="58.0" rx="5.0" fill="#e6ac91" stroke="none"/>
+<text x="786.0" y="700.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.4207</text>
+<rect x="870.0" y="665.0" width="152.0" height="58.0" rx="5.0" fill="#ebbaa2" stroke="none"/>
+<text x="946.0" y="700.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.3424</text>
+<rect x="1030.0" y="665.0" width="152.0" height="58.0" rx="5.0" fill="#f2cfbc" stroke="none"/>
+<text x="1106.0" y="700.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#172033">0.2233</text>
+</svg>

@@ -1,0 +1,11 @@
+check,status,evidence,recommendation
+unique_sample_ids,PASS,"unique=13,910; total=13,910",Sample ID ต้องไม่ซ้ำ
+finite_raw_features,PASS,ตรวจในขั้นตอน parser ทุก feature แล้ว,หยุดการทำงานทันทีหากพบ NaN/inf
+exact_feature_duplicates_across_batches,PASS,cross-batch duplicate groups=0,ถ้ามี duplicate ให้ตัดสินใจ deduplicate ก่อน train/test split
+source_target_sample_id_overlap,PASS,overlap=0,source และ target ต้องไม่มี sample_id เดียวกัน
+source_target_exact_feature_overlap,PASS,exact feature-vector overlap=0,หากใช้เป็น test set ควรตรวจ/ตัด exact duplicate
+scaling_fit_scope,PASS,StandardScaler.fit ใช้ Batch 1 เท่านั้น,ห้าม fit scaler ด้วย source+target รวมกันในการทดลองโมเดล
+pca_fit_scope,PASS,PCA.fit ใช้ Batch 1 เท่านั้น,Target ใช้ transform เพื่อ visualization เท่านั้น
+mmd_bandwidth_fit_scope,PASS,median heuristic คำนวณจาก Batch 1 เท่านั้น,ล็อก bandwidth ก่อนเปรียบเทียบ target ทุก batch
+target_label_usage,INFO,ใช้ target labels เฉพาะ count/prior และ class-wise diagnostic,ห้ามใช้ target labels เหล่านี้ fit/tune โมเดลถ้าตั้งใจทำ UDA
+model_test_contamination,INFO,สคริปต์นี้ไม่ train/tune/evaluate predictive model,งานโมเดลภายหลังต้องแยก validation/test และห้าม tune จาก test

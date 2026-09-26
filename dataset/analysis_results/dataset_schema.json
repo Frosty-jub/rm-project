@@ -1,0 +1,67 @@
+{
+  "dataset_name": "Gas Sensor Array Drift Dataset",
+  "official_url": "https://archive.ics.uci.edu/dataset/224/gas+sensor+array+drift+dataset",
+  "doi": "10.24432/C5RP6W",
+  "file_format": "LIBSVM-like: class_id feature_id:value ...",
+  "actual": {
+    "samples": 13910,
+    "sensors": 16,
+    "features_per_sensor": 8,
+    "features": 128,
+    "classes": 6,
+    "class_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "batches": 10,
+    "batch_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "official_expected": {
+    "samples": 13910,
+    "sensors": 16,
+    "features_per_sensor": 8,
+    "features": 128,
+    "classes": 6,
+    "batches": 10
+  },
+  "class_mapping": {
+    "1": "Ethanol",
+    "2": "Ethylene",
+    "3": "Ammonia",
+    "4": "Acetaldehyde",
+    "5": "Acetone",
+    "6": "Toluene"
+  },
+  "checks": {
+    "sample_count": true,
+    "feature_count": true,
+    "sensor_count": true,
+    "class_ids": true,
+    "batch_ids": true,
+    "all_values_finite": true,
+    "all_official_dimension_counts_match": true
+  },
+  "all_checks_passed": true,
+  "runtime_versions": {
+    "python": "3.14.5",
+    "numpy": "2.5.1",
+    "pandas": "3.0.3",
+    "scipy": "1.18.0",
+    "scikit_learn": "1.9.0"
+  }
+}

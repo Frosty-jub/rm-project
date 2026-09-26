@@ -1,0 +1,6 @@
+metric,official_expected,actual,match
+samples,13910,13910,True
+sensors,16,16,True
+features,128,128,True
+classes,6,6,True
+batches,10,10,True

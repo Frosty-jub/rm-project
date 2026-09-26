@@ -1,0 +1,303 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800">
+<rect x="0.0" y="0.0" width="1800.0" height="1800.0" rx="0.0" fill="#f6f8fc" stroke="none" stroke-width="0.0"/>
+<text x="80.0" y="72.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#172033">Class Distribution — 10 Batches</text>
+<text x="80.0" y="110.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#65708a">13,910 samples • 6 classes • 128 features</text>
+<rect x="55.0" y="145.0" width="1160.0" height="550.0" rx="24.0" fill="#ffffff" stroke="#e1e6f0" stroke-width="2.0"/>
+<text x="90.0" y="195.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#172033">Overall distribution</text>
+<line x1="120" y1="595.0" x2="1150" y2="595.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="602.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">0</text>
+<line x1="120" y1="545.0" x2="1150" y2="545.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="552.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">500</text>
+<line x1="120" y1="495.0" x2="1150" y2="495.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="502.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">1,000</text>
+<line x1="120" y1="445.0" x2="1150" y2="445.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="452.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">1,500</text>
+<line x1="120" y1="395.0" x2="1150" y2="395.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="402.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">2,000</text>
+<line x1="120" y1="345.0" x2="1150" y2="345.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="352.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">2,500</text>
+<line x1="120" y1="295.0" x2="1150" y2="295.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="302.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">3,000</text>
+<line x1="120" y1="245.0" x2="1150" y2="245.0" stroke="#e8ecf4" stroke-width="2"/>
+<text x="102.0" y="252.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#77829a">3,500</text>
+<rect x="120.0" y="338.5" width="145.0" height="256.5" rx="10.0" fill="#4f7de8" stroke="none" stroke-width="0.0"/>
+<text x="192.5" y="302.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033">2,565</text>
+<text x="192.5" y="326.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">18.4%</text>
+<text x="192.5" y="629.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 1</text>
+<rect x="297.0" y="302.4" width="145.0" height="292.6" rx="10.0" fill="#4f7de8" stroke="none" stroke-width="0.0"/>
+<text x="369.5" y="266.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033">2,926</text>
+<text x="369.5" y="290.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">21.0%</text>
+<text x="369.5" y="629.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 2</text>
+<rect x="474.0" y="430.9" width="145.0" height="164.1" rx="10.0" fill="#f0ad4e" stroke="none" stroke-width="0.0"/>
+<text x="546.5" y="394.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033">1,641</text>
+<text x="546.5" y="418.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">11.8%</text>
+<text x="546.5" y="629.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 3</text>
+<rect x="651.0" y="401.4" width="145.0" height="193.6" rx="10.0" fill="#4f7de8" stroke="none" stroke-width="0.0"/>
+<text x="723.5" y="365.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033">1,936</text>
+<text x="723.5" y="389.4" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">13.9%</text>
+<text x="723.5" y="629.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 4</text>
+<rect x="828.0" y="294.1" width="145.0" height="300.9" rx="10.0" fill="#ef6a6a" stroke="none" stroke-width="0.0"/>
+<text x="900.5" y="258.1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033">3,009</text>
+<text x="900.5" y="282.1" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">21.6%</text>
+<text x="900.5" y="629.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 5</text>
+<rect x="1005.0" y="411.7" width="145.0" height="183.3" rx="10.0" fill="#4f7de8" stroke="none" stroke-width="0.0"/>
+<text x="1077.5" y="375.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#172033">1,833</text>
+<text x="1077.5" y="399.7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">13.2%</text>
+<text x="1077.5" y="629.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 6</text>
+<rect x="1245.0" y="145.0" width="500.0" height="550.0" rx="24.0" fill="#ffffff" stroke="#e1e6f0" stroke-width="2.0"/>
+<text x="1290.0" y="200.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#172033">Imbalance summary</text>
+<rect x="1290.0" y="232.0" width="410.0" height="84.0" rx="16.0" fill="#fff3dc" stroke="none" stroke-width="0.0"/>
+<text x="1315.0" y="270.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#9a5b00">MODERATE IMBALANCE</text>
+<text x="1315.0" y="297.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#9a6f30">overall (max/min heuristic)</text>
+<text x="1290.0" y="365.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#77829a">Majority class</text>
+<text x="1698.0" y="365.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Class 5 — 3,009 (21.6%)</text>
+<text x="1290.0" y="422.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#77829a">Minority class</text>
+<text x="1698.0" y="422.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Class 3 — 1,641 (11.8%)</text>
+<text x="1290.0" y="479.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#77829a">Max/min ratio</text>
+<text x="1698.0" y="479.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">1.83 : 1</text>
+<text x="1290.0" y="536.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#77829a">Missing by batch</text>
+<text x="1698.0" y="536.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Class 6 absent in batches 3–5</text>
+<rect x="55.0" y="730.0" width="1690.0" height="985.0" rx="24.0" fill="#ffffff" stroke="#e1e6f0" stroke-width="2.0"/>
+<text x="90.0" y="790.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#172033">Distribution within each batch</text>
+<text x="90.0" y="827.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" fill="#65708a">Each cell shows count and share of that batch</text>
+<text x="397.5" y="873.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 1</text>
+<text x="622.5" y="873.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 2</text>
+<text x="847.5" y="873.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 3</text>
+<text x="1072.5" y="873.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 4</text>
+<text x="1297.5" y="873.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 5</text>
+<text x="1522.5" y="873.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#172033">Class 6</text>
+<text x="260.0" y="915.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 1</text>
+<rect x="285.0" y="890.0" width="217.0" height="58.0" rx="6.0" fill="#688ed2" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="926.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">90  (20.2%)</text>
+<rect x="510.0" y="890.0" width="217.0" height="58.0" rx="6.0" fill="#5c85ce" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="926.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">98  (22.0%)</text>
+<rect x="735.0" y="890.0" width="217.0" height="58.0" rx="6.0" fill="#7296d5" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="926.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">83  (18.7%)</text>
+<rect x="960.0" y="890.0" width="217.0" height="58.0" rx="6.0" fill="#bfd1f0" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="926.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">30  (6.7%)</text>
+<rect x="1185.0" y="890.0" width="217.0" height="58.0" rx="6.0" fill="#85a4dc" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="926.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">70  (15.7%)</text>
+<rect x="1410.0" y="890.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="926.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">74  (16.6%)</text>
+<text x="260.0" y="981.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 2</text>
+<rect x="285.0" y="956.0" width="217.0" height="58.0" rx="6.0" fill="#95b1e2" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="992.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">164  (13.2%)</text>
+<rect x="510.0" y="956.0" width="217.0" height="58.0" rx="6.0" fill="#3c6dc3" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="992.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">334  (26.8%)</text>
+<rect x="735.0" y="956.0" width="217.0" height="58.0" rx="6.0" fill="#b7cbed" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="992.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">100  (8.0%)</text>
+<rect x="960.0" y="956.0" width="217.0" height="58.0" rx="6.0" fill="#b2c7eb" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="992.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">109  (8.8%)</text>
+<rect x="1185.0" y="956.0" width="217.0" height="58.0" rx="6.0" fill="#285dbc" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="992.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">532  (42.8%)</text>
+<rect x="1410.0" y="956.0" width="217.0" height="58.0" rx="6.0" fill="#e8f1fe" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="992.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">5  (0.4%)</text>
+<text x="260.0" y="1047.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 3</text>
+<rect x="285.0" y="1022.0" width="217.0" height="58.0" rx="6.0" fill="#5580cc" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">365  (23.0%)</text>
+<rect x="510.0" y="1022.0" width="217.0" height="58.0" rx="6.0" fill="#285dbc" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">490  (30.9%)</text>
+<rect x="735.0" y="1022.0" width="217.0" height="58.0" rx="6.0" fill="#92afe1" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">216  (13.6%)</text>
+<rect x="960.0" y="1022.0" width="217.0" height="58.0" rx="6.0" fill="#89a7dd" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">240  (15.1%)</text>
+<rect x="1185.0" y="1022.0" width="217.0" height="58.0" rx="6.0" fill="#7a9cd8" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">275  (17.3%)</text>
+<rect x="1410.0" y="1022.0" width="217.0" height="58.0" rx="6.0" fill="#ebf3ff" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1058.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">0  (0.0%)</text>
+<text x="260.0" y="1113.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 4</text>
+<rect x="285.0" y="1088.0" width="217.0" height="58.0" rx="6.0" fill="#285dbc" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1124.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">64  (39.8%)</text>
+<rect x="510.0" y="1088.0" width="217.0" height="58.0" rx="6.0" fill="#3d6dc3" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1124.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">43  (26.7%)</text>
+<rect x="735.0" y="1088.0" width="217.0" height="58.0" rx="6.0" fill="#bbceee" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1124.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">12  (7.5%)</text>
+<rect x="960.0" y="1088.0" width="217.0" height="58.0" rx="6.0" fill="#7296d5" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1124.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">30  (18.6%)</text>
+<rect x="1185.0" y="1088.0" width="217.0" height="58.0" rx="6.0" fill="#bbceee" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1124.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">12  (7.5%)</text>
+<rect x="1410.0" y="1088.0" width="217.0" height="58.0" rx="6.0" fill="#ebf3ff" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1124.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">0  (0.0%)</text>
+<text x="260.0" y="1179.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 5</text>
+<rect x="285.0" y="1154.0" width="217.0" height="58.0" rx="6.0" fill="#8facdf" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1190.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">28  (14.2%)</text>
+<rect x="510.0" y="1154.0" width="217.0" height="58.0" rx="6.0" fill="#678dd2" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1190.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">40  (20.3%)</text>
+<rect x="735.0" y="1154.0" width="217.0" height="58.0" rx="6.0" fill="#a9c0e8" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1190.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">20  (10.2%)</text>
+<rect x="960.0" y="1154.0" width="217.0" height="58.0" rx="6.0" fill="#537ecb" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1190.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">46  (23.4%)</text>
+<rect x="1185.0" y="1154.0" width="217.0" height="58.0" rx="6.0" fill="#285dbc" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1190.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">63  (32.0%)</text>
+<rect x="1410.0" y="1154.0" width="217.0" height="58.0" rx="6.0" fill="#ebf3ff" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1190.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">0  (0.0%)</text>
+<text x="260.0" y="1245.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 6</text>
+<rect x="285.0" y="1220.0" width="217.0" height="58.0" rx="6.0" fill="#5a83cd" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1256.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">514  (22.3%)</text>
+<rect x="510.0" y="1220.0" width="217.0" height="58.0" rx="6.0" fill="#4976c7" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1256.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">574  (25.0%)</text>
+<rect x="735.0" y="1220.0" width="217.0" height="58.0" rx="6.0" fill="#ccdbf4" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1256.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">110  (4.8%)</text>
+<rect x="960.0" y="1220.0" width="217.0" height="58.0" rx="6.0" fill="#e3edfc" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1256.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">29  (1.3%)</text>
+<rect x="1185.0" y="1220.0" width="217.0" height="58.0" rx="6.0" fill="#406fc4" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1256.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">606  (26.3%)</text>
+<rect x="1410.0" y="1220.0" width="217.0" height="58.0" rx="6.0" fill="#678dd2" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1256.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">467  (20.3%)</text>
+<text x="260.0" y="1311.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 7</text>
+<rect x="285.0" y="1286.0" width="217.0" height="58.0" rx="6.0" fill="#7699d7" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1322.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">649  (18.0%)</text>
+<rect x="510.0" y="1286.0" width="217.0" height="58.0" rx="6.0" fill="#7497d6" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1322.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">662  (18.3%)</text>
+<rect x="735.0" y="1286.0" width="217.0" height="58.0" rx="6.0" fill="#aac1e9" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1322.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">360  (10.0%)</text>
+<rect x="960.0" y="1286.0" width="217.0" height="58.0" rx="6.0" fill="#658cd1" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1322.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">744  (20.6%)</text>
+<rect x="1185.0" y="1286.0" width="217.0" height="58.0" rx="6.0" fill="#7a9cd8" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1322.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">630  (17.4%)</text>
+<rect x="1410.0" y="1286.0" width="217.0" height="58.0" rx="6.0" fill="#85a4dc" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1322.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">568  (15.7%)</text>
+<text x="260.0" y="1377.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 8</text>
+<rect x="285.0" y="1352.0" width="217.0" height="58.0" rx="6.0" fill="#a9c0e8" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1388.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">30  (10.2%)</text>
+<rect x="510.0" y="1352.0" width="217.0" height="58.0" rx="6.0" fill="#a9c0e8" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1388.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">30  (10.2%)</text>
+<rect x="735.0" y="1352.0" width="217.0" height="58.0" rx="6.0" fill="#93afe1" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1388.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">40  (13.6%)</text>
+<rect x="960.0" y="1352.0" width="217.0" height="58.0" rx="6.0" fill="#a2bbe6" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1388.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">33  (11.2%)</text>
+<rect x="1185.0" y="1352.0" width="217.0" height="58.0" rx="6.0" fill="#285dbc" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1388.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">143  (48.6%)</text>
+<rect x="1410.0" y="1352.0" width="217.0" height="58.0" rx="6.0" fill="#c3d4f1" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1388.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">18  (6.1%)</text>
+<text x="260.0" y="1443.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 9</text>
+<rect x="285.0" y="1418.0" width="217.0" height="58.0" rx="6.0" fill="#97b2e2" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1454.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">61  (13.0%)</text>
+<rect x="510.0" y="1418.0" width="217.0" height="58.0" rx="6.0" fill="#9fb8e5" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1454.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">55  (11.7%)</text>
+<rect x="735.0" y="1418.0" width="217.0" height="58.0" rx="6.0" fill="#6189cf" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1454.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">100  (21.3%)</text>
+<rect x="960.0" y="1418.0" width="217.0" height="58.0" rx="6.0" fill="#83a3db" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1454.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">75  (16.0%)</text>
+<rect x="1185.0" y="1418.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1454.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">78  (16.6%)</text>
+<rect x="1410.0" y="1418.0" width="217.0" height="58.0" rx="6.0" fill="#5f88cf" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1454.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#ffffff">101  (21.5%)</text>
+<text x="260.0" y="1509.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#172033">Batch 10</text>
+<rect x="285.0" y="1484.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="393.5" y="1520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">600  (16.7%)</text>
+<rect x="510.0" y="1484.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="618.5" y="1520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">600  (16.7%)</text>
+<rect x="735.0" y="1484.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="843.5" y="1520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">600  (16.7%)</text>
+<rect x="960.0" y="1484.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="1068.5" y="1520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">600  (16.7%)</text>
+<rect x="1185.0" y="1484.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="1293.5" y="1520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">600  (16.7%)</text>
+<rect x="1410.0" y="1484.0" width="217.0" height="58.0" rx="6.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<text x="1518.5" y="1520.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#24324a">600  (16.7%)</text>
+<text x="95.0" y="1635.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400" fill="#65708a">Cell color = within-batch share</text>
+<rect x="360.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#ebf3ff" stroke="none" stroke-width="0.0"/>
+<rect x="365.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#e9f1fe" stroke="none" stroke-width="0.0"/>
+<rect x="370.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#e7f0fe" stroke="none" stroke-width="0.0"/>
+<rect x="375.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#e5eefd" stroke="none" stroke-width="0.0"/>
+<rect x="380.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#e3edfc" stroke="none" stroke-width="0.0"/>
+<rect x="385.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#e1ebfc" stroke="none" stroke-width="0.0"/>
+<rect x="390.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#dfeafb" stroke="none" stroke-width="0.0"/>
+<rect x="395.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#dde8fa" stroke="none" stroke-width="0.0"/>
+<rect x="400.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#dbe7fa" stroke="none" stroke-width="0.0"/>
+<rect x="405.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#d9e5f9" stroke="none" stroke-width="0.0"/>
+<rect x="410.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#d7e4f8" stroke="none" stroke-width="0.0"/>
+<rect x="415.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#d5e2f8" stroke="none" stroke-width="0.0"/>
+<rect x="420.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#d3e1f7" stroke="none" stroke-width="0.0"/>
+<rect x="425.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#d1dff6" stroke="none" stroke-width="0.0"/>
+<rect x="430.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#cfdef6" stroke="none" stroke-width="0.0"/>
+<rect x="435.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#cddcf5" stroke="none" stroke-width="0.0"/>
+<rect x="440.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#cbdbf4" stroke="none" stroke-width="0.0"/>
+<rect x="445.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#cad9f3" stroke="none" stroke-width="0.0"/>
+<rect x="450.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#c8d8f3" stroke="none" stroke-width="0.0"/>
+<rect x="455.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#c6d6f2" stroke="none" stroke-width="0.0"/>
+<rect x="460.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#c4d5f1" stroke="none" stroke-width="0.0"/>
+<rect x="465.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#c2d3f1" stroke="none" stroke-width="0.0"/>
+<rect x="470.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#c0d2f0" stroke="none" stroke-width="0.0"/>
+<rect x="475.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#bed0ef" stroke="none" stroke-width="0.0"/>
+<rect x="480.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#bccfef" stroke="none" stroke-width="0.0"/>
+<rect x="485.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#bacdee" stroke="none" stroke-width="0.0"/>
+<rect x="490.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#b8cced" stroke="none" stroke-width="0.0"/>
+<rect x="495.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#b6caed" stroke="none" stroke-width="0.0"/>
+<rect x="500.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#b4c9ec" stroke="none" stroke-width="0.0"/>
+<rect x="505.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#b2c7eb" stroke="none" stroke-width="0.0"/>
+<rect x="510.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#b0c6eb" stroke="none" stroke-width="0.0"/>
+<rect x="515.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#aec4ea" stroke="none" stroke-width="0.0"/>
+<rect x="520.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#acc3e9" stroke="none" stroke-width="0.0"/>
+<rect x="525.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#aac1e9" stroke="none" stroke-width="0.0"/>
+<rect x="530.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#a8bfe8" stroke="none" stroke-width="0.0"/>
+<rect x="535.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#a6bee7" stroke="none" stroke-width="0.0"/>
+<rect x="540.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#a4bce7" stroke="none" stroke-width="0.0"/>
+<rect x="545.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#a2bbe6" stroke="none" stroke-width="0.0"/>
+<rect x="550.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#a0b9e5" stroke="none" stroke-width="0.0"/>
+<rect x="555.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#9eb8e5" stroke="none" stroke-width="0.0"/>
+<rect x="560.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#9cb6e4" stroke="none" stroke-width="0.0"/>
+<rect x="565.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#9ab5e3" stroke="none" stroke-width="0.0"/>
+<rect x="570.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#98b3e3" stroke="none" stroke-width="0.0"/>
+<rect x="575.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#96b2e2" stroke="none" stroke-width="0.0"/>
+<rect x="580.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#94b0e1" stroke="none" stroke-width="0.0"/>
+<rect x="585.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#92afe1" stroke="none" stroke-width="0.0"/>
+<rect x="590.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#90ade0" stroke="none" stroke-width="0.0"/>
+<rect x="595.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#8eacdf" stroke="none" stroke-width="0.0"/>
+<rect x="600.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#8caadf" stroke="none" stroke-width="0.0"/>
+<rect x="605.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#8aa9de" stroke="none" stroke-width="0.0"/>
+<rect x="610.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#89a7dd" stroke="none" stroke-width="0.0"/>
+<rect x="615.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#87a6dc" stroke="none" stroke-width="0.0"/>
+<rect x="620.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#85a4dc" stroke="none" stroke-width="0.0"/>
+<rect x="625.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#83a3db" stroke="none" stroke-width="0.0"/>
+<rect x="630.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#81a1da" stroke="none" stroke-width="0.0"/>
+<rect x="635.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#7fa0da" stroke="none" stroke-width="0.0"/>
+<rect x="640.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#7d9ed9" stroke="none" stroke-width="0.0"/>
+<rect x="645.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#7b9dd8" stroke="none" stroke-width="0.0"/>
+<rect x="650.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#799bd8" stroke="none" stroke-width="0.0"/>
+<rect x="655.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#779ad7" stroke="none" stroke-width="0.0"/>
+<rect x="660.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#7598d6" stroke="none" stroke-width="0.0"/>
+<rect x="665.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#7397d6" stroke="none" stroke-width="0.0"/>
+<rect x="670.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#7195d5" stroke="none" stroke-width="0.0"/>
+<rect x="675.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#6f94d4" stroke="none" stroke-width="0.0"/>
+<rect x="680.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#6d92d4" stroke="none" stroke-width="0.0"/>
+<rect x="685.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#6b91d3" stroke="none" stroke-width="0.0"/>
+<rect x="690.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#698fd2" stroke="none" stroke-width="0.0"/>
+<rect x="695.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#678dd2" stroke="none" stroke-width="0.0"/>
+<rect x="700.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#658cd1" stroke="none" stroke-width="0.0"/>
+<rect x="705.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#638ad0" stroke="none" stroke-width="0.0"/>
+<rect x="710.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#6189d0" stroke="none" stroke-width="0.0"/>
+<rect x="715.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#5f87cf" stroke="none" stroke-width="0.0"/>
+<rect x="720.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#5d86ce" stroke="none" stroke-width="0.0"/>
+<rect x="725.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#5b84ce" stroke="none" stroke-width="0.0"/>
+<rect x="730.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#5983cd" stroke="none" stroke-width="0.0"/>
+<rect x="735.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#5781cc" stroke="none" stroke-width="0.0"/>
+<rect x="740.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#5580cc" stroke="none" stroke-width="0.0"/>
+<rect x="745.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#537ecb" stroke="none" stroke-width="0.0"/>
+<rect x="750.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#517dca" stroke="none" stroke-width="0.0"/>
+<rect x="755.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4f7bca" stroke="none" stroke-width="0.0"/>
+<rect x="760.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4d7ac9" stroke="none" stroke-width="0.0"/>
+<rect x="765.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4b78c8" stroke="none" stroke-width="0.0"/>
+<rect x="770.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4977c8" stroke="none" stroke-width="0.0"/>
+<rect x="775.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4875c7" stroke="none" stroke-width="0.0"/>
+<rect x="780.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4674c6" stroke="none" stroke-width="0.0"/>
+<rect x="785.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4472c5" stroke="none" stroke-width="0.0"/>
+<rect x="790.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#4271c5" stroke="none" stroke-width="0.0"/>
+<rect x="795.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#406fc4" stroke="none" stroke-width="0.0"/>
+<rect x="800.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3e6ec3" stroke="none" stroke-width="0.0"/>
+<rect x="805.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3c6cc3" stroke="none" stroke-width="0.0"/>
+<rect x="810.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3a6bc2" stroke="none" stroke-width="0.0"/>
+<rect x="815.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3869c1" stroke="none" stroke-width="0.0"/>
+<rect x="820.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3668c1" stroke="none" stroke-width="0.0"/>
+<rect x="825.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3466c0" stroke="none" stroke-width="0.0"/>
+<rect x="830.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3265bf" stroke="none" stroke-width="0.0"/>
+<rect x="835.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#3063bf" stroke="none" stroke-width="0.0"/>
+<rect x="840.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#2e62be" stroke="none" stroke-width="0.0"/>
+<rect x="845.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#2c60bd" stroke="none" stroke-width="0.0"/>
+<rect x="850.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#2a5fbd" stroke="none" stroke-width="0.0"/>
+<rect x="855.0" y="1618.0" width="5.5" height="18.0" rx="0.0" fill="#285dbc" stroke="none" stroke-width="0.0"/>
+<text x="350.0" y="1635.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#65708a">0%</text>
+<text x="875.0" y="1635.0" text-anchor="start" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="400" fill="#65708a">30%+</text>
+<text x="1700.0" y="1635.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400" fill="#8a94aa">Source: batch1.dat–batch10.dat</text>
+</svg>
