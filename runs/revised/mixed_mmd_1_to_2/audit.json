@@ -1,0 +1,15 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\mixed_mmd_1_to_2",
+  "audited_count": 1,
+  "expected_count": 1,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 73.47266881028939,
+      "checkpoint_sha256": "3cb35ac78ab2c3842048e2e038280e0295f0e1f7d46168a67253382d9299aa86"
+    }
+  ]
+}

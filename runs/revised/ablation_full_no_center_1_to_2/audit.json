@@ -1,0 +1,15 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\ablation_full_no_center_1_to_2",
+  "audited_count": 1,
+  "expected_count": 1,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 70.90032154340837,
+      "checkpoint_sha256": "dcbccda9ac866755918d0f100ea7e63e3ebaebd218f7b337040155a24f5f127a"
+    }
+  ]
+}

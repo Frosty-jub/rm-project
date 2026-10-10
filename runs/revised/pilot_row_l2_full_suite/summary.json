@@ -1,0 +1,124 @@
+{
+  "study_label": "exploratory modified MPC-CNN; target-informed recipe selection",
+  "selection": "final_epoch_no_target_checkpoint_selection",
+  "recipe": {
+    "seed": 42,
+    "scaling": "source",
+    "transform": "none",
+    "row_l2": true,
+    "head": "linear",
+    "dropout": 0.1,
+    "initialize": "kaiming",
+    "pretrain_epochs": 50,
+    "pretrain_objective": "ce_mmd",
+    "pretrain_mmd_weight": 0.1,
+    "pretrain_steps": "max",
+    "epochs": 150,
+    "learning_rate": 0,
+    "batch_size": 0,
+    "center_multiplier": 0.01,
+    "center_reduction": "mean",
+    "center_normalize": false,
+    "center_init": "source",
+    "center_beta": 0.5,
+    "center_warmup": 50,
+    "weight_decay": 0.0001,
+    "objective": "ensemble",
+    "ensemble_gradient": "detached",
+    "normalize_weights": true,
+    "formal_mmd_weight": 0,
+    "mmd_mode": "consistent_eval",
+    "bandwidth_mode": "median_differentiable",
+    "fixed_bandwidth": 1,
+    "schedule": "cosine",
+    "log_every": 50
+  },
+  "pairs": [
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      7
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "requested_pair_count": 17,
+  "completed_count": 10,
+  "status": "incomplete",
+  "unique_task_count": 17,
+  "protocols": {
+    "long": {
+      "task_count": 9,
+      "full_protocol_task_count": 9,
+      "macro_target_accuracy_percent": 62.72259818183051,
+      "macro_paper_accuracy_percent": 76.05555555555557
+    },
+    "short": {
+      "task_count": 2,
+      "full_protocol_task_count": 9,
+      "macro_target_accuracy_percent": 84.06930863857269,
+      "macro_paper_accuracy_percent": 88.97
+    }
+  }
+}

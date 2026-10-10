@@ -1,0 +1,4 @@
+source,target,long_protocol,short_protocol,target_accuracy_percent,source_accuracy_percent,paper_accuracy_percent,gap_percentage_points,result
+1,2,True,True,69.05144453048706,100.0,85.06,-16.00855546951294,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\pilot_domain\batch1_to_2\result.json
+1,6,True,False,91.82608723640442,100.0,95.16,-3.3339127635955776,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\pilot_domain\batch1_to_6\result.json
+4,5,False,True,69.03553009033203,100.0,94.71,-25.674469909667962,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\pilot_domain\batch4_to_5\result.json

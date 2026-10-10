@@ -1,0 +1,13 @@
+{
+  "run_type": "paper_formal_epochs",
+  "completed_tasks": 1,
+  "expected_tasks": 1,
+  "protocols": {
+    "short": {
+      "tasks": 1,
+      "mean_accuracy": 0.47266881028938906,
+      "paper_mean_accuracy": 0.8506,
+      "mean_gap_percentage_points": -37.7931189710611
+    }
+  }
+}

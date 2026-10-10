@@ -1,0 +1,85 @@
+{
+  "purpose": "Preprocessing diagnosis for MPC-CNN; SVC is a diagnostic substitute, not a reproduced MPC-CNN.",
+  "selection_disclosure": "TARGET-INFORMED EXPLORATORY: target labels score/rank candidates. No target labels used in transforms or model.fit. Selected scores are not untouched benchmark results.",
+  "python": "3.12.4",
+  "sklearn": "1.9.0",
+  "numpy": "1.26.4",
+  "model": {
+    "type": "SVC",
+    "C": 10.0,
+    "kernel": "rbf",
+    "gamma": "scale",
+    "random_state": 42
+  },
+  "representatives": [
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "ranking": [
+    {
+      "preprocessing": "signedlog_domain_zscore",
+      "representative_mean_target_accuracy": 79.29220141916245
+    },
+    {
+      "preprocessing": "source_zscore_row_l2",
+      "representative_mean_target_accuracy": 77.36704039316623
+    },
+    {
+      "preprocessing": "signedlog_pooled_zscore",
+      "representative_mean_target_accuracy": 74.86781758059225
+    },
+    {
+      "preprocessing": "signedlog_source_zscore",
+      "representative_mean_target_accuracy": 74.6761980052623
+    },
+    {
+      "preprocessing": "domain_zscore",
+      "representative_mean_target_accuracy": 72.91739837721467
+    },
+    {
+      "preprocessing": "row_l2",
+      "representative_mean_target_accuracy": 71.66205652947434
+    },
+    {
+      "preprocessing": "source_zscore",
+      "representative_mean_target_accuracy": 63.4068637086944
+    },
+    {
+      "preprocessing": "pooled_zscore",
+      "representative_mean_target_accuracy": 61.0028274908851
+    },
+    {
+      "preprocessing": "source_zscore_coral",
+      "representative_mean_target_accuracy": 56.399928277818425
+    }
+  ],
+  "selected": [
+    "signedlog_domain_zscore",
+    "source_zscore_row_l2",
+    "signedlog_pooled_zscore"
+  ],
+  "averages": {
+    "signedlog_domain_zscore": {
+      "long_exploratory": 64.20381206750899,
+      "short_exploratory": 72.6624205561095
+    },
+    "source_zscore_row_l2": {
+      "long_exploratory": 53.11591637878982,
+      "short_exploratory": 71.9732658059763
+    },
+    "signedlog_pooled_zscore": {
+      "long_exploratory": 46.06443647758614,
+      "short_exploratory": 79.5943625171347
+    }
+  }
+}

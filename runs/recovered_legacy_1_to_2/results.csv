@@ -1,0 +1,2 @@
+protocol,source,target,model,accuracy,paper_accuracy,gap_percentage_points,correct,n_target,epochs,pretrain_epochs,batch_size,learning_rate,center_weight,center_beta,scaling,seed,architecture
+short,1,2,mpc,0.47266881028938906,0.8506,-37.7931189710611,588,1244,800,100,90,0.0005,2.0,0.5,source,42,legacy

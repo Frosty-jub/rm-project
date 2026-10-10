@@ -1,0 +1,43 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain",
+  "audited_count": 5,
+  "expected_count": 17,
+  "complete": false,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 73.55305466237942,
+      "checkpoint_sha256": "63755f1547db80af916018f7b7634d7565f04fde86b98fbec5796491f8479b41"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 76.54476670870113,
+      "checkpoint_sha256": "97f72d5e2bb57b8b2848b9539a9cce772e7c4c250652279f36fa4d0f05405d70"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 64.59627329192547,
+      "checkpoint_sha256": "01a8eb599c11790b00752f48bab35639027190326aa3e8c4682b2293f785b408"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 74.11167512690355,
+      "checkpoint_sha256": "9af55d6079d07c08b603f296e5503beadd9cd1951bf5fcf08fcf8c056c9770ea"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 87.30434782608695,
+      "checkpoint_sha256": "74520bef14421bee7b3e85d0e1a555e81974b24607b4da901e2c11b17d19ee54"
+    }
+  ]
+}

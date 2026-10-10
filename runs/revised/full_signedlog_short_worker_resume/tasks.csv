@@ -1,0 +1,6 @@
+source,target,long_protocol,short_protocol,target_accuracy_percent,source_accuracy_percent,paper_accuracy_percent,gap_percentage_points,result
+2,3,False,True,88.46153616905212,100.0,92.88,-4.418463830947871,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\full_signedlog_short_worker_resume\batch2_to_3\result.json
+3,4,False,True,78.88199090957642,100.0,96.13,-17.24800909042358,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\full_signedlog_short_worker_resume\batch3_to_4\result.json
+4,5,False,True,56.85279369354248,100.0,94.71,-37.85720630645751,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\full_signedlog_short_worker_resume\batch4_to_5\result.json
+5,6,False,True,64.17391300201416,100.0,74.31,-10.136086997985842,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\full_signedlog_short_worker_resume\batch5_to_6\result.json
+6,7,False,True,77.1381139755249,100.0,76.86,0.2781139755249029,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\full_signedlog_short_worker_resume\batch6_to_7\result.json

@@ -1,0 +1,88 @@
+{
+  "study_label": "exploratory modified MPC-CNN; target-informed recipe selection",
+  "selection": "final_epoch_no_target_checkpoint_selection",
+  "recipe": {
+    "seed": 42,
+    "scaling": "domain",
+    "transform": "signed_log",
+    "row_l2": false,
+    "head": "linear",
+    "dropout": 0.1,
+    "initialize": "kaiming",
+    "pretrain_epochs": 600,
+    "pretrain_objective": "ce_mmd",
+    "pretrain_mmd_weight": 0.1,
+    "pretrain_steps": "max",
+    "epochs": 800,
+    "learning_rate": 0,
+    "batch_size": 0,
+    "center_multiplier": 0.01,
+    "center_reduction": "mean",
+    "center_normalize": false,
+    "center_init": "source",
+    "center_beta": 0.5,
+    "center_warmup": 50,
+    "weight_decay": 0.0001,
+    "objective": "ensemble",
+    "ensemble_gradient": "detached",
+    "normalize_weights": true,
+    "formal_mmd_weight": 0,
+    "mmd_mode": "consistent_eval",
+    "bandwidth_mode": "median_differentiable",
+    "fixed_bandwidth": 1,
+    "schedule": "cosine",
+    "log_every": 100
+  },
+  "pairs": [
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      8
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      9,
+      10
+    ]
+  ],
+  "requested_pair_count": 8,
+  "completed_count": 1,
+  "status": "incomplete",
+  "unique_task_count": 8,
+  "protocols": {
+    "long": {
+      "task_count": 0,
+      "full_protocol_task_count": 9,
+      "macro_target_accuracy_percent": null,
+      "macro_paper_accuracy_percent": null
+    },
+    "short": {
+      "task_count": 1,
+      "full_protocol_task_count": 9,
+      "macro_target_accuracy_percent": 88.46153616905212,
+      "macro_paper_accuracy_percent": 92.88
+    }
+  }
+}

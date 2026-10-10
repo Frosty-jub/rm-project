@@ -1,0 +1,118 @@
+{
+  "config": {
+    "seed": 42,
+    "scaling": "domain",
+    "transform": "signed_log",
+    "row_l2": false,
+    "head": "linear",
+    "dropout": 0.1,
+    "initialize": "kaiming",
+    "pretrain_epochs": 600,
+    "pretrain_objective": "ce_mmd",
+    "pretrain_mmd_weight": 0.1,
+    "pretrain_steps": "max",
+    "epochs": 800,
+    "learning_rate": 0,
+    "batch_size": 0,
+    "center_multiplier": 0,
+    "center_reduction": "mean",
+    "center_normalize": false,
+    "center_init": "source",
+    "center_beta": 0.5,
+    "center_warmup": 50,
+    "weight_decay": 0.0001,
+    "objective": "ensemble",
+    "ensemble_gradient": "detached",
+    "normalize_weights": true,
+    "formal_mmd_weight": 0,
+    "mmd_mode": "consistent_eval",
+    "bandwidth_mode": "median_differentiable",
+    "fixed_bandwidth": 1,
+    "schedule": "cosine",
+    "log_every": 100,
+    "source": 4,
+    "target": 5,
+    "effective_lr": 0.0008,
+    "effective_batch_size": 160,
+    "effective_center_weight": 0.0
+  },
+  "metrics": {
+    "weights": [
+      0.33513984084129333,
+      0.33660396933555603,
+      0.32825613021850586
+    ],
+    "mmd": [
+      0.16551600396633148,
+      0.15603718161582947,
+      0.21132652461528778
+    ],
+    "source_accuracy": 1.0,
+    "source_predicted_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "source_positive_feature_fractions": [
+      0.5522612929344177,
+      0.5766692757606506,
+      0.5832686424255371
+    ],
+    "target_accuracy": 0.8020304441452026,
+    "target_predicted_counts": [
+      52,
+      40,
+      19,
+      58,
+      28,
+      0
+    ],
+    "target_positive_feature_fractions": [
+      0.606955885887146,
+      0.6265862584114075,
+      0.6556154489517212
+    ]
+  },
+  "paper_accuracy_percent": 94.71,
+  "gap_percentage_points": -14.50695558547973,
+  "seconds": 43.46799999999348,
+  "selection": "final_epoch",
+  "training_target_labels_used": false,
+  "provenance": {
+    "code_sha256": {
+      "revised.py": "ede6262ca2833653a270561b407741abaa8d65ba2ea46a916ac2f1ead40ac8fb",
+      "model.py": "6ea916b39515d53a044197c841d25333d9578e41a7e6430a3bb7d806732fb502",
+      "data.py": "ecb22f5c9f082bd767b20870226c6863af20c7b43dc199307a562be0cb5d0fbb",
+      "train.py": "baefd5a144a21c260086fbd137733c96179005624fbe726604f0611f41b1a2af"
+    },
+    "data_files": {
+      "4": {
+        "path": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\dataset\\batch4.dat",
+        "sha256": "e189c58b2735261bba208488d8742c9fe4a1e6ea75d974642972aa79eabca281"
+      },
+      "5": {
+        "path": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\dataset\\batch5.dat",
+        "sha256": "f4c6b6eed9aefd85f36e6bc6c272512ff44b09bbe22667ccaaf74ed877deba5b"
+      }
+    },
+    "source_features_sha256": "8c7f0349cf2b654083cbabca4392def0dbd055529d03f9f2281423b1fed937a3",
+    "source_labels_sha256": "4133f930b36d8546a74f9bb8026a8b016e1c2856e6ea3ad67364c74e3cd278e4",
+    "target_features_sha256": "d2712d00fdf2bac5b937f44cbeff83a898cdeb5ed8ca40940951a416e6746cf4",
+    "target_labels_sha256": "6a50f936d9a19368382d9dc317990e99a88f46a0c1f056d4465f6950e782a6da",
+    "runtime": {
+      "python": "3.12.4",
+      "platform": "Windows-11-10.0.26100-SP0",
+      "torch": "2.7.1+cu126",
+      "numpy": "1.26.4",
+      "cuda_runtime": "12.6",
+      "cudnn": 90701,
+      "device": "cuda",
+      "gpu": "NVIDIA GeForce RTX 2060"
+    },
+    "pretrained_checkpoint_sha256": "f5e204f8e3b37f2d0b1805ddfad01f37f6217afee48fa4797e0a25cf42501518"
+  },
+  "model_sha256": "1de1fe960bd24bcd8354d2d24226c840f04eb8fa8c480cd5a32127b3b837ed49"
+}

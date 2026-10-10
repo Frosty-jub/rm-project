@@ -1,0 +1,111 @@
+[
+  {
+    "source_batch": 4,
+    "target_batch": 5,
+    "weights": [
+      0.32647591829299927,
+      0.3346855342388153,
+      0.33883851766586304
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_class_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "source_head_recalls": [
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ]
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "target_heads_percent": [
+      66.4975,
+      66.4975,
+      67.0051
+    ],
+    "target_class_counts": [
+      28,
+      40,
+      20,
+      46,
+      63,
+      0
+    ],
+    "target_head_recalls": [
+      [
+        1.0,
+        1.0,
+        0.9,
+        0.8696,
+        0.0794,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        0.95,
+        0.8261,
+        0.0952,
+        null
+      ],
+      [
+        1.0,
+        0.975,
+        0.95,
+        0.8478,
+        0.1111,
+        null
+      ]
+    ],
+    "target_ensemble_percent": 67.5127,
+    "target_uniform_percent": 67.5127,
+    "target_counts": [
+      82,
+      40,
+      19,
+      49,
+      7,
+      0
+    ],
+    "suite": "runs\\revised\\ablation_full_low_center_4_to_5",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\ablation_full_low_center_4_to_5\\model.pt"
+  }
+]

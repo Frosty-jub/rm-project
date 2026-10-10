@@ -1,3 +1,13 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+.venv/
+.venv_gpu/
+tmp/
+uci_dataset224.zip
+supporting_information.pdf
+paper_extracted.txt
+paper_page_*.png
+runs/**/*.pt
+runs/**/*.jsonl
+runs/**/*.log

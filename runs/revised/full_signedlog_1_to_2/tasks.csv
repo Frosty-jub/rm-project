@@ -1,0 +1,2 @@
+source,target,long_protocol,short_protocol,target_accuracy_percent,source_accuracy_percent,paper_accuracy_percent,gap_percentage_points,result
+1,2,True,True,73.55305552482605,100.0,85.06,-11.506944475173952,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\full_signedlog_1_to_2\batch1_to_2\result.json

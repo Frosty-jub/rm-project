@@ -1,0 +1,2 @@
+source,target,long_protocol,short_protocol,target_accuracy_percent,source_accuracy_percent,paper_accuracy_percent,gap_percentage_points,result
+1,2,True,True,26.848873496055603,22.022472321987152,85.06,-58.2111265039444,D:\Users\ASUS\Downloads\rm\rm-project\runs\revised\equation_sensitivity\batch1_to_2\result.json

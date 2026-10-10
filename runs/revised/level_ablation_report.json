@@ -1,0 +1,1396 @@
+[
+  {
+    "source_batch": 1,
+    "target_batch": 10,
+    "weights": [
+      0.33356809616088867,
+      0.3324536681175232,
+      0.3339782953262329
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      53.3889,
+      54.1389,
+      54.3056
+    ],
+    "target_ensemble_percent": 54.0833,
+    "target_uniform_percent": 54.0833,
+    "target_counts": [
+      1085,
+      762,
+      415,
+      104,
+      810,
+      424
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_10\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 2,
+    "weights": [
+      0.331633985042572,
+      0.3341003656387329,
+      0.33426564931869507
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      73.7138,
+      73.6334,
+      73.5531
+    ],
+    "target_ensemble_percent": 73.5531,
+    "target_uniform_percent": 73.5531,
+    "target_counts": [
+      114,
+      320,
+      206,
+      35,
+      497,
+      72
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_2\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 3,
+    "weights": [
+      0.33410564064979553,
+      0.33295613527297974,
+      0.33293816447257996
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      78.4363,
+      76.797,
+      75.2837
+    ],
+    "target_ensemble_percent": 76.5448,
+    "target_uniform_percent": 76.5448,
+    "target_counts": [
+      285,
+      486,
+      217,
+      93,
+      338,
+      167
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_3\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 4,
+    "weights": [
+      0.33549049496650696,
+      0.33209171891212463,
+      0.3324178159236908
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      65.2174,
+      63.9752,
+      64.5963
+    ],
+    "target_ensemble_percent": 64.5963,
+    "target_uniform_percent": 64.5963,
+    "target_counts": [
+      65,
+      60,
+      0,
+      10,
+      17,
+      9
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_4\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 5,
+    "weights": [
+      0.33452096581459045,
+      0.3334287405014038,
+      0.33205029368400574
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      74.1117,
+      74.1117,
+      74.1117
+    ],
+    "target_ensemble_percent": 74.1117,
+    "target_uniform_percent": 74.1117,
+    "target_counts": [
+      69,
+      40,
+      21,
+      0,
+      64,
+      3
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_5\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 6,
+    "weights": [
+      0.3337995707988739,
+      0.33318576216697693,
+      0.3330146372318268
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      87.8261,
+      87.3043,
+      87.1739
+    ],
+    "target_ensemble_percent": 87.3043,
+    "target_uniform_percent": 87.3043,
+    "target_counts": [
+      567,
+      480,
+      167,
+      83,
+      547,
+      456
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_6\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 7,
+    "weights": [
+      0.3316492438316345,
+      0.3329189717769623,
+      0.3354318141937256
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      61.9983,
+      61.7769,
+      61.2787
+    ],
+    "target_ensemble_percent": 61.8046,
+    "target_uniform_percent": 61.8046,
+    "target_counts": [
+      1051,
+      771,
+      476,
+      109,
+      887,
+      319
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_7\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 8,
+    "weights": [
+      0.33765527606010437,
+      0.3343977928161621,
+      0.3279469609260559
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      48.6395,
+      46.5986,
+      46.5986
+    ],
+    "target_ensemble_percent": 47.2789,
+    "target_uniform_percent": 47.2789,
+    "target_counts": [
+      26,
+      51,
+      56,
+      8,
+      72,
+      81
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_8\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 9,
+    "weights": [
+      0.32558849453926086,
+      0.3350377380847931,
+      0.33937376737594604
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      47.8723,
+      48.0851,
+      48.5106
+    ],
+    "target_ensemble_percent": 48.0851,
+    "target_uniform_percent": 48.0851,
+    "target_counts": [
+      97,
+      57,
+      126,
+      0,
+      120,
+      70
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch1_to_9\\model.pt"
+  },
+  {
+    "source_batch": 2,
+    "target_batch": 3,
+    "weights": [
+      0.33482620120048523,
+      0.3329145312309265,
+      0.33225932717323303
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      164,
+      334,
+      100,
+      109,
+      532,
+      5
+    ],
+    "target_heads_percent": [
+      88.1463,
+      88.2724,
+      89.5334
+    ],
+    "target_ensemble_percent": 88.4615,
+    "target_uniform_percent": 88.4615,
+    "target_counts": [
+      407,
+      491,
+      180,
+      103,
+      405,
+      0
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch2_to_3\\model.pt"
+  },
+  {
+    "source_batch": 3,
+    "target_batch": 4,
+    "weights": [
+      0.3322707414627075,
+      0.3331901729106903,
+      0.33453911542892456
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      365,
+      490,
+      216,
+      240,
+      275,
+      0
+    ],
+    "target_heads_percent": [
+      79.5031,
+      78.882,
+      78.882
+    ],
+    "target_ensemble_percent": 78.882,
+    "target_uniform_percent": 78.882,
+    "target_counts": [
+      39,
+      53,
+      12,
+      24,
+      33,
+      0
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch3_to_4\\model.pt"
+  },
+  {
+    "source_batch": 4,
+    "target_batch": 5,
+    "weights": [
+      0.3269578218460083,
+      0.33606207370758057,
+      0.3369801640510559
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "target_heads_percent": [
+      58.3756,
+      56.3452,
+      56.3452
+    ],
+    "target_ensemble_percent": 56.8528,
+    "target_uniform_percent": 56.8528,
+    "target_counts": [
+      105,
+      40,
+      18,
+      34,
+      0,
+      0
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch4_to_5\\model.pt"
+  },
+  {
+    "source_batch": 5,
+    "target_batch": 6,
+    "weights": [
+      0.3314703106880188,
+      0.3341105580329895,
+      0.3344191908836365
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      28,
+      40,
+      20,
+      46,
+      63,
+      0
+    ],
+    "target_heads_percent": [
+      64.7391,
+      63.2609,
+      64.6087
+    ],
+    "target_ensemble_percent": 64.1739,
+    "target_uniform_percent": 64.1739,
+    "target_counts": [
+      470,
+      481,
+      174,
+      310,
+      865,
+      0
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch5_to_6\\model.pt"
+  },
+  {
+    "source_batch": 6,
+    "target_batch": 7,
+    "weights": [
+      0.331623375415802,
+      0.3332570493221283,
+      0.3351196050643921
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      514,
+      574,
+      110,
+      29,
+      606,
+      467
+    ],
+    "target_heads_percent": [
+      76.9444,
+      76.806,
+      77.6363
+    ],
+    "target_ensemble_percent": 77.1381,
+    "target_uniform_percent": 77.1381,
+    "target_counts": [
+      757,
+      867,
+      271,
+      63,
+      1014,
+      641
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch6_to_7\\model.pt"
+  },
+  {
+    "source_batch": 7,
+    "target_batch": 8,
+    "weights": [
+      0.33438169956207275,
+      0.3322916030883789,
+      0.33332666754722595
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      649,
+      662,
+      360,
+      744,
+      630,
+      568
+    ],
+    "target_heads_percent": [
+      67.0068,
+      67.0068,
+      66.6667
+    ],
+    "target_ensemble_percent": 66.6667,
+    "target_uniform_percent": 66.6667,
+    "target_counts": [
+      37,
+      45,
+      30,
+      27,
+      87,
+      68
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch7_to_8\\model.pt"
+  },
+  {
+    "source_batch": 8,
+    "target_batch": 9,
+    "weights": [
+      0.3298180103302002,
+      0.3338395953178406,
+      0.3363424241542816
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      30,
+      30,
+      40,
+      33,
+      143,
+      18
+    ],
+    "target_heads_percent": [
+      61.2766,
+      62.766,
+      67.0213
+    ],
+    "target_ensemble_percent": 64.2553,
+    "target_uniform_percent": 64.2553,
+    "target_counts": [
+      60,
+      0,
+      100,
+      34,
+      236,
+      40
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch8_to_9\\model.pt"
+  },
+  {
+    "source_batch": 9,
+    "target_batch": 10,
+    "weights": [
+      0.3223471939563751,
+      0.33778977394104004,
+      0.3398630619049072
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      61,
+      55,
+      100,
+      75,
+      78,
+      101
+    ],
+    "target_heads_percent": [
+      25.3611,
+      24.8889,
+      24.3333
+    ],
+    "target_ensemble_percent": 24.6389,
+    "target_uniform_percent": 24.6389,
+    "target_counts": [
+      1,
+      535,
+      762,
+      634,
+      1268,
+      400
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch9_to_10\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 10,
+    "weights": [
+      0.33933889865875244,
+      0.3331398665904999,
+      0.32752129435539246
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      45.5,
+      44.0833,
+      47.0278
+    ],
+    "target_ensemble_percent": 45.75,
+    "target_uniform_percent": 45.6667,
+    "target_counts": [
+      800,
+      784,
+      367,
+      171,
+      837,
+      641
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_10\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 2,
+    "weights": [
+      0.33337509632110596,
+      0.33437448740005493,
+      0.3322503864765167
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      75.5627,
+      74.9196,
+      74.8392
+    ],
+    "target_ensemble_percent": 75.0,
+    "target_uniform_percent": 75.0,
+    "target_counts": [
+      91,
+      324,
+      209,
+      19,
+      514,
+      87
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_2\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 3,
+    "weights": [
+      0.3382793962955475,
+      0.33214667439460754,
+      0.32957395911216736
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      72.3203,
+      77.4905,
+      77.6166
+    ],
+    "target_ensemble_percent": 77.5536,
+    "target_uniform_percent": 77.5536,
+    "target_counts": [
+      399,
+      486,
+      173,
+      58,
+      267,
+      203
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_3\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 4,
+    "weights": [
+      0.34174859523773193,
+      0.33108824491500854,
+      0.3271631598472595
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      69.5652,
+      70.8075,
+      70.1863
+    ],
+    "target_ensemble_percent": 70.8075,
+    "target_uniform_percent": 70.8075,
+    "target_counts": [
+      54,
+      43,
+      12,
+      8,
+      16,
+      28
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_4\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 5,
+    "weights": [
+      0.337371826171875,
+      0.332682728767395,
+      0.32994547486305237
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      65.9898,
+      72.0812,
+      70.5584
+    ],
+    "target_ensemble_percent": 69.0355,
+    "target_uniform_percent": 69.5431,
+    "target_counts": [
+      65,
+      40,
+      11,
+      0,
+      64,
+      17
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_5\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 6,
+    "weights": [
+      0.3360249102115631,
+      0.33384737372398376,
+      0.3301277756690979
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      91.8261,
+      91.8696,
+      93.2609
+    ],
+    "target_ensemble_percent": 92.3478,
+    "target_uniform_percent": 92.3478,
+    "target_counts": [
+      574,
+      537,
+      116,
+      25,
+      576,
+      472
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_6\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 7,
+    "weights": [
+      0.3343043327331543,
+      0.3338446617126465,
+      0.33185097575187683
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      69.2776,
+      69.1115,
+      69.7758
+    ],
+    "target_ensemble_percent": 69.3053,
+    "target_uniform_percent": 69.3053,
+    "target_counts": [
+      933,
+      678,
+      479,
+      122,
+      831,
+      570
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_7\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 8,
+    "weights": [
+      0.33773720264434814,
+      0.3338783085346222,
+      0.32838448882102966
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      48.9796,
+      48.6395,
+      42.1769
+    ],
+    "target_ensemble_percent": 49.3197,
+    "target_uniform_percent": 48.9796,
+    "target_counts": [
+      118,
+      52,
+      27,
+      9,
+      74,
+      14
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_8\\model.pt"
+  },
+  {
+    "source_batch": 1,
+    "target_batch": 9,
+    "weights": [
+      0.3288331925868988,
+      0.33219239115715027,
+      0.33897438645362854
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      50.8511,
+      60.6383,
+      44.4681
+    ],
+    "target_ensemble_percent": 52.5532,
+    "target_uniform_percent": 52.5532,
+    "target_counts": [
+      129,
+      64,
+      100,
+      0,
+      135,
+      42
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch1_to_9\\model.pt"
+  },
+  {
+    "source_batch": 2,
+    "target_batch": 3,
+    "weights": [
+      0.3312457203865051,
+      0.33430323004722595,
+      0.3344510495662689
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      164,
+      334,
+      100,
+      109,
+      532,
+      5
+    ],
+    "target_heads_percent": [
+      88.8398,
+      88.9029,
+      88.8398
+    ],
+    "target_ensemble_percent": 88.8398,
+    "target_uniform_percent": 88.8398,
+    "target_counts": [
+      392,
+      490,
+      193,
+      96,
+      415,
+      0
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch2_to_3\\model.pt"
+  },
+  {
+    "source_batch": 3,
+    "target_batch": 4,
+    "weights": [
+      0.33347848057746887,
+      0.3336053788661957,
+      0.33291617035865784
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      365,
+      490,
+      216,
+      240,
+      275,
+      0
+    ],
+    "target_heads_percent": [
+      94.4099,
+      92.5466,
+      91.3043
+    ],
+    "target_ensemble_percent": 91.9255,
+    "target_uniform_percent": 91.9255,
+    "target_counts": [
+      58,
+      43,
+      12,
+      24,
+      24,
+      0
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch3_to_4\\model.pt"
+  },
+  {
+    "source_batch": 4,
+    "target_batch": 5,
+    "weights": [
+      0.33218252658843994,
+      0.33454373478889465,
+      0.333273708820343
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "target_heads_percent": [
+      86.2944,
+      74.1117,
+      87.8173
+    ],
+    "target_ensemble_percent": 83.7563,
+    "target_uniform_percent": 83.7563,
+    "target_counts": [
+      32,
+      40,
+      18,
+      73,
+      34,
+      0
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch4_to_5\\model.pt"
+  },
+  {
+    "source_batch": 5,
+    "target_batch": 6,
+    "weights": [
+      0.33381175994873047,
+      0.33427414298057556,
+      0.33191412687301636
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      28,
+      40,
+      20,
+      46,
+      63,
+      0
+    ],
+    "target_heads_percent": [
+      62.5652,
+      66.2609,
+      63.2174
+    ],
+    "target_ensemble_percent": 64.1739,
+    "target_uniform_percent": 64.1739,
+    "target_counts": [
+      381,
+      517,
+      188,
+      322,
+      892,
+      0
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch5_to_6\\model.pt"
+  },
+  {
+    "source_batch": 6,
+    "target_batch": 7,
+    "weights": [
+      0.3326619863510132,
+      0.33352479338645935,
+      0.33381325006484985
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      514,
+      574,
+      110,
+      29,
+      606,
+      467
+    ],
+    "target_heads_percent": [
+      75.2283,
+      74.7301,
+      75.3114
+    ],
+    "target_ensemble_percent": 75.1176,
+    "target_uniform_percent": 75.1176,
+    "target_counts": [
+      663,
+      1011,
+      122,
+      258,
+      1082,
+      477
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch6_to_7\\model.pt"
+  },
+  {
+    "source_batch": 7,
+    "target_batch": 8,
+    "weights": [
+      0.33775755763053894,
+      0.3310891091823578,
+      0.3311532735824585
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      649,
+      662,
+      360,
+      744,
+      630,
+      568
+    ],
+    "target_heads_percent": [
+      68.0272,
+      67.0068,
+      67.0068
+    ],
+    "target_ensemble_percent": 67.3469,
+    "target_uniform_percent": 67.3469,
+    "target_counts": [
+      36,
+      40,
+      29,
+      33,
+      78,
+      78
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch7_to_8\\model.pt"
+  },
+  {
+    "source_batch": 8,
+    "target_batch": 9,
+    "weights": [
+      0.3329986035823822,
+      0.33461883664131165,
+      0.33238258957862854
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      30,
+      30,
+      40,
+      33,
+      143,
+      18
+    ],
+    "target_heads_percent": [
+      69.3617,
+      62.9787,
+      62.766
+    ],
+    "target_ensemble_percent": 62.9787,
+    "target_uniform_percent": 62.9787,
+    "target_counts": [
+      63,
+      2,
+      100,
+      67,
+      235,
+      3
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch8_to_9\\model.pt"
+  },
+  {
+    "source_batch": 9,
+    "target_batch": 10,
+    "weights": [
+      0.32939183712005615,
+      0.3333424925804138,
+      0.33726567029953003
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      61,
+      55,
+      100,
+      75,
+      78,
+      101
+    ],
+    "target_heads_percent": [
+      25.3056,
+      21.1389,
+      21.2778
+    ],
+    "target_ensemble_percent": 21.3889,
+    "target_uniform_percent": 21.3889,
+    "target_counts": [
+      282,
+      594,
+      201,
+      863,
+      1018,
+      642
+    ],
+    "suite": "runs\\revised\\pilot_signedlog_full_suite",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_full_suite\\batch9_to_10\\model.pt"
+  }
+]

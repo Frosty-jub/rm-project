@@ -1,0 +1,220 @@
+[
+  {
+    "source_batch": 4,
+    "target_batch": 5,
+    "weights": [
+      0.3269578218460083,
+      0.33606207370758057,
+      0.3369801640510559
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_class_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "source_head_recalls": [
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ]
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "target_heads_percent": [
+      58.3756,
+      56.3452,
+      56.3452
+    ],
+    "target_class_counts": [
+      28,
+      40,
+      20,
+      46,
+      63,
+      0
+    ],
+    "target_head_recalls": [
+      [
+        1.0,
+        1.0,
+        0.9,
+        0.6304,
+        0.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        0.9,
+        0.5435,
+        0.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        0.9,
+        0.5435,
+        0.0,
+        null
+      ]
+    ],
+    "target_ensemble_percent": 56.8528,
+    "target_uniform_percent": 56.8528,
+    "target_counts": [
+      105,
+      40,
+      18,
+      34,
+      0,
+      0
+    ],
+    "suite": "runs\\revised\\full_signedlog_domain_resume3\\batch4_to_5",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\full_signedlog_domain_resume3\\batch4_to_5\\model.pt"
+  },
+  {
+    "source_batch": 4,
+    "target_batch": 5,
+    "weights": [
+      0.33513984084129333,
+      0.33660396933555603,
+      0.32825613021850586
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_class_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "source_head_recalls": [
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        null
+      ]
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      64,
+      43,
+      12,
+      30,
+      12,
+      0
+    ],
+    "target_heads_percent": [
+      77.665,
+      77.665,
+      79.6954
+    ],
+    "target_class_counts": [
+      28,
+      40,
+      20,
+      46,
+      63,
+      0
+    ],
+    "target_head_recalls": [
+      [
+        1.0,
+        1.0,
+        0.9,
+        0.913,
+        0.3968,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        0.95,
+        0.9565,
+        0.3492,
+        null
+      ],
+      [
+        1.0,
+        1.0,
+        0.95,
+        0.9565,
+        0.4127,
+        null
+      ]
+    ],
+    "target_ensemble_percent": 80.203,
+    "target_uniform_percent": 80.203,
+    "target_counts": [
+      52,
+      40,
+      19,
+      58,
+      28,
+      0
+    ],
+    "suite": "runs\\revised\\ablation_full_no_center_4_to_5",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\ablation_full_no_center_4_to_5\\model.pt"
+  }
+]

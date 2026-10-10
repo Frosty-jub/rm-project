@@ -1,0 +1,46 @@
+{
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "torch": "2.7.1+cu126",
+  "numpy": "1.26.4",
+  "cuda_runtime": "12.6",
+  "cudnn": 90701,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 2060",
+  "provenance": {
+    "code_sha256": {
+      "revised.py": "ede6262ca2833653a270561b407741abaa8d65ba2ea46a916ac2f1ead40ac8fb",
+      "model.py": "6ea916b39515d53a044197c841d25333d9578e41a7e6430a3bb7d806732fb502",
+      "data.py": "ecb22f5c9f082bd767b20870226c6863af20c7b43dc199307a562be0cb5d0fbb",
+      "train.py": "baefd5a144a21c260086fbd137733c96179005624fbe726604f0611f41b1a2af"
+    },
+    "data_files": {
+      "8": {
+        "path": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\dataset\\batch8.dat",
+        "sha256": "4c45ba165437c52705e03e54d7a7652d1be0264636fa7a08c8d1a3ed664fa19d"
+      },
+      "9": {
+        "path": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\dataset\\batch9.dat",
+        "sha256": "aa7b05ebd5b8e93c818ecc5f52dfcb6127c0a6c100e2d32146cb44dd163f8e09"
+      }
+    },
+    "source_features_sha256": "6d34cbe82c59fe9e363cd3921ce926988fc4bf939d966af0488212d04c04a243",
+    "source_labels_sha256": "544ded7117d81824911e369a980c5f6735c14747f6c9de2e9815b2cce14a346b",
+    "target_features_sha256": "9cc2b9df33aabdda27adadae66ab20b09681b721386d27b6ed0bd77abb03e4c9",
+    "target_labels_sha256": "06e6b1c972026d14bbff9cc5f2939ec3bbe74c4f5a69660431d5be6ea0760790",
+    "runtime": {
+      "python": "3.12.4",
+      "platform": "Windows-11-10.0.26100-SP0",
+      "torch": "2.7.1+cu126",
+      "numpy": "1.26.4",
+      "cuda_runtime": "12.6",
+      "cudnn": 90701,
+      "device": "cuda",
+      "gpu": "NVIDIA GeForce RTX 2060"
+    },
+    "pretrained_checkpoint_sha256": null
+  },
+  "selection": "final_epoch",
+  "target_feature_policy": "unlabeled target features used for MMD and optional scaling",
+  "target_labels_training": false
+}

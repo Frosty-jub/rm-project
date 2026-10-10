@@ -1,0 +1,29 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_source_row_l2",
+  "audited_count": 3,
+  "expected_count": 3,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 71.54340836012861,
+      "checkpoint_sha256": "58a3d7f745339b024d211e6060f3b9afdc68f981c83601aedb55a5515438e595"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 83.60869565217392,
+      "checkpoint_sha256": "7d9456945428d855e1b2ce6d35e2d84b46151f27ce5210cbd0f2787acdf4df80"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 95.93908629441624,
+      "checkpoint_sha256": "def5f7e2b2131d2263aae5572fc44c008942c7297bc0f94d8a1ae8c68fa7bc10"
+    }
+  ]
+}

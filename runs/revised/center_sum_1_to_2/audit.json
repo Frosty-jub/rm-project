@@ -1,0 +1,15 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\center_sum_1_to_2",
+  "audited_count": 1,
+  "expected_count": 1,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 54.662379421221864,
+      "checkpoint_sha256": "f082099693cd10ce45448358b9d5beef47129fb4499597851e67b7c239f6ea2a"
+    }
+  ]
+}

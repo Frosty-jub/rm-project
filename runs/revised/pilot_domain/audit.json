@@ -1,0 +1,29 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_domain",
+  "audited_count": 3,
+  "expected_count": 3,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 69.05144694533763,
+      "checkpoint_sha256": "bf0c016c0213f31ba901aacfd2636378113cbba2c4cb9f312ed92b5e5aabfd07"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 91.82608695652173,
+      "checkpoint_sha256": "4b3d27c34fa2a930760379b7c55a56da93c6c5d675854e66c5a7286ba5bb0f48"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 69.03553299492386,
+      "checkpoint_sha256": "d3f2c0687f25c454365ff9a5ba721926f0ff1797122aa9c6f8fe857a6b405cfe"
+    }
+  ]
+}

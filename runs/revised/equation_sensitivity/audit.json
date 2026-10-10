@@ -1,0 +1,15 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\equation_sensitivity",
+  "audited_count": 1,
+  "expected_count": 1,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 22.02247191011236,
+      "target_accuracy_percent": 26.848874598070736,
+      "checkpoint_sha256": "9b5ddbdb4e9fcfd8ea6f648f03cb71a078c023fd231776fb712baeb2dbe835fc"
+    }
+  ]
+}

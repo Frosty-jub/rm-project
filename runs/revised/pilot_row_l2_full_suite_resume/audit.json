@@ -1,0 +1,127 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_row_l2_full_suite_resume",
+  "audited_count": 17,
+  "expected_count": 17,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 71.54340836012861,
+      "checkpoint_sha256": "58a3d7f745339b024d211e6060f3b9afdc68f981c83601aedb55a5515438e595"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 72.63556116015133,
+      "checkpoint_sha256": "eda2110f2a0220606cb0eb58cba2e19bd878905dfd01011402e4f8563cb98a68"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 59.006211180124225,
+      "checkpoint_sha256": "a88450d21aab21d1126eba82bc02b640974b76aea7378e6cb9a59a58e29d06b1"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 75.1269035532995,
+      "checkpoint_sha256": "616df2253ffcc15933eb08629cb8baece058e5df05e3e7721f8b89794dd6c938"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 83.60869565217392,
+      "checkpoint_sha256": "7d9456945428d855e1b2ce6d35e2d84b46151f27ce5210cbd0f2787acdf4df80"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 48.62994741212289,
+      "checkpoint_sha256": "c4d79182f25f52f5ddf463948ff4948a4952a64767e11768a003d8aa7235a2cd"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 45.91836734693878,
+      "checkpoint_sha256": "adb800463acb6e543b72a4b4268869cf0558470f5175429ce9fa5267ff39ab4b"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 52.97872340425533,
+      "checkpoint_sha256": "1bc78839daa9311f2405cb49177b1cee10b44b517f04e15a570bf5520c9d259b"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 55.05555555555556,
+      "checkpoint_sha256": "ed936206d4667c805fa8be79788c26b08b22d0bb02b0fc4a30ef4aad1334c949"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 96.59520807061791,
+      "checkpoint_sha256": "f195d20a815dff5433a4ae9a714a2c6cef554b53499f193f216f865c22ea9008"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 64.59627329192547,
+      "checkpoint_sha256": "c06a158507af932a623e145aa425bd88da254ca5442331fc8678f6dde8403d24"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 95.93908629441624,
+      "checkpoint_sha256": "def5f7e2b2131d2263aae5572fc44c008942c7297bc0f94d8a1ae8c68fa7bc10"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 73.82608695652173,
+      "checkpoint_sha256": "168f034d960fe46c6c961640192809444ae19c44bde0ef56ea835cc38f950820"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 77.13811237199003,
+      "checkpoint_sha256": "ee28bf60d442345b7eb53122247bfd68036958247a1d170b610be15c60b59796"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 91.49659863945578,
+      "checkpoint_sha256": "5fa9dce13eee7b7f9e6f635d6dee90f29ff87d5ea318f879a3f78a134d08750d"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 82.76595744680851,
+      "checkpoint_sha256": "30f74832370a90d2ecd2ad273f3ed8749995b54ecec6ec3a00f0fd78c34e4cf8"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 36.27777777777778,
+      "checkpoint_sha256": "8ef60fb5c3a29ea4a1f0326fb5220d2da289862f95cb01d23f620571f15507c6"
+    }
+  ]
+}

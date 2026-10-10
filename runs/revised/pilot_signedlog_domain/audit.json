@@ -1,0 +1,29 @@
+{
+  "suite": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\pilot_signedlog_domain",
+  "audited_count": 3,
+  "expected_count": 3,
+  "complete": true,
+  "tasks": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 75.0,
+      "checkpoint_sha256": "8f9d15ee8cc6527149ce3b2f2907f967a9bb917f9a4886c89f0db5a06ae8fb04"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 92.34782608695652,
+      "checkpoint_sha256": "d14ae829ca3eb4132f38c76cd981aa4b80f0042cc2ee45c3674c77849f1804f1"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_accuracy_percent": 100.0,
+      "target_accuracy_percent": 83.75634517766497,
+      "checkpoint_sha256": "6a3a34e4eee74bd780d9904583f64bfa6a70621d7179ec2b6c3a5fe2f4df842f"
+    }
+  ]
+}

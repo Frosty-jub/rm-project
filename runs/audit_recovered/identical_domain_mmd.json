@@ -1,0 +1,14 @@
+{
+  "input": "same 32 random samples in both domains",
+  "old_mixed_train_eval_mmd": [
+    0.7353338599205017,
+    0.7217191457748413,
+    0.6709527373313904
+  ],
+  "consistent_eval_mmd": [
+    9.999999747378752e-06,
+    9.999999747378752e-06,
+    9.999999747378752e-06
+  ],
+  "torch": "2.13.0+cpu"
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp_utc": "2026-10-08T19:15:17.461374+00:00",
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26100-SP0",
+  "torch": "2.7.1+cu126",
+  "numpy": "1.26.4",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 2060",
+  "seed": 42,
+  "command_config": {
+    "data_dir": "dataset",
+    "output_dir": "runs\\recovered_legacy_1_to_2",
+    "protocol": "short",
+    "model": "mpc",
+    "architecture": "legacy",
+    "source": 1,
+    "target": 2,
+    "epochs": 800,
+    "pretrain_epochs": 100,
+    "batch_size": null,
+    "learning_rate": null,
+    "dropout": 0.5,
+    "center_beta": 0.5,
+    "center_weight": null,
+    "scaling": "source",
+    "seed": 42,
+    "smoke": false,
+    "skip_existing": false
+  }
+}

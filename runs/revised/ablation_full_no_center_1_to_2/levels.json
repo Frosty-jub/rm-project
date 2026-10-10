@@ -1,0 +1,43 @@
+[
+  {
+    "source_batch": 1,
+    "target_batch": 2,
+    "weights": [
+      0.33321642875671387,
+      0.33320707082748413,
+      0.3335765302181244
+    ],
+    "source_heads_percent": [
+      100.0,
+      100.0,
+      100.0
+    ],
+    "source_ensemble_percent": 100.0,
+    "source_uniform_percent": 100.0,
+    "source_counts": [
+      90,
+      98,
+      83,
+      30,
+      70,
+      74
+    ],
+    "target_heads_percent": [
+      70.9003,
+      70.8199,
+      70.9003
+    ],
+    "target_ensemble_percent": 70.9003,
+    "target_uniform_percent": 70.9003,
+    "target_counts": [
+      105,
+      305,
+      214,
+      58,
+      477,
+      85
+    ],
+    "suite": "runs\\revised\\ablation_full_no_center_1_to_2",
+    "checkpoint": "D:\\Users\\ASUS\\Downloads\\rm\\rm-project\\runs\\revised\\ablation_full_no_center_1_to_2\\model.pt"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "source": 4,
+  "target": 5,
+  "class_index_policy": "zero-based indices 0..5; add 1 for UCI file labels",
+  "accuracy_percent": 67.51269035532995,
+  "target_class_counts": [
+    28,
+    40,
+    20,
+    46,
+    63,
+    0
+  ],
+  "predicted_class_counts": [
+    82,
+    40,
+    19,
+    49,
+    7,
+    0
+  ],
+  "recall_by_class_index_0_to_5": [
+    1.0,
+    1.0,
+    0.95,
+    0.8695652173913043,
+    0.09523809523809523,
+    0.0
+  ],
+  "confusion_true_rows_predicted_columns": [
+    [
+      28,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      40,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      19,
+      0,
+      1,
+      0
+    ],
+    [
+      6,
+      0,
+      0,
+      40,
+      0,
+      0
+    ],
+    [
+      48,
+      0,
+      0,
+      9,
+      6,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}
